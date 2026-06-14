@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine" />
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Rasa-6029F4?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa" />
 </p>
